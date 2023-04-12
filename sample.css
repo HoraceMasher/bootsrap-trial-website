@@ -8,3 +8,9 @@ body::before{
         width: 50%;
     }
 }
+
+#navsection{
+    background-image: url(assets/boydremer.avif);
+
+    
+}
